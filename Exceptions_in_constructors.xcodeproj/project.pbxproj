@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B1359D192C77BD29009076F3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B1359D172C77BD29009076F3 /* main.cpp */; };
 		B1AFEC6A2C73CED700182FAB /* EquilateralTriangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B1AFEC682C73CED700182FAB /* EquilateralTriangle.cpp */; };
 		B1AFEC6D2C73CEF400182FAB /* Figure.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B1AFEC6B2C73CEF400182FAB /* Figure.cpp */; };
 		B1AFEC732C73CF1500182FAB /* FigureError.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B1AFEC712C73CF1500182FAB /* FigureError.cpp */; };
@@ -33,6 +34,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B1359D172C77BD29009076F3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		B1AFEC5E2C73CC9200182FAB /* Exceptions_in_constructors */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Exceptions_in_constructors; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1AFEC682C73CED700182FAB /* EquilateralTriangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = EquilateralTriangle.cpp; sourceTree = "<group>"; };
 		B1AFEC692C73CED700182FAB /* EquilateralTriangle.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = EquilateralTriangle.hpp; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 				B1AFEC872C73CF8800182FAB /* Square.hpp */,
 				B1AFEC892C73CF9B00182FAB /* Triangle.cpp */,
 				B1AFEC8A2C73CF9B00182FAB /* Triangle.hpp */,
+				B1359D172C77BD29009076F3 /* main.cpp */,
 			);
 			path = Exceptions_in_constructors;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 			files = (
 				B1AFEC882C73CF8800182FAB /* Square.cpp in Sources */,
 				B1AFEC6A2C73CED700182FAB /* EquilateralTriangle.cpp in Sources */,
+				B1359D192C77BD29009076F3 /* main.cpp in Sources */,
 				B1AFEC732C73CF1500182FAB /* FigureError.cpp in Sources */,
 				B1AFEC762C73CF2E00182FAB /* IsoscelesTriangle.cpp in Sources */,
 				B1AFEC6D2C73CEF400182FAB /* Figure.cpp in Sources */,
